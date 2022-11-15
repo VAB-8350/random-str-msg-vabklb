@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-vabklb",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/global.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAB-8350/random-str-msg-vabklb.git"
+  },
+  "keywords": [],
+  "author": "Andres Barilin <andresbarilin2014@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VAB-8350/random-str-msg-vabklb/issues"
+  },
+  "homepage": "https://github.com/VAB-8350/random-str-msg-vabklb#readme",
+  "bin": {
+    "random-str-msg@vabklb": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
